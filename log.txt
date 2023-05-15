@@ -1,0 +1,120 @@
+Client 31784 has solicited access to critical region at 2023-05-05 09:17:18.045833
+Client 6716 has solicited access to critical region at 2023-05-05 09:17:18.123844
+Client 6856 has solicited access to critical region at 2023-05-05 09:17:18.090819
+Client 31784 has access to critical region at 2023-05-05 09:17:18.153843
+Client 20764 has solicited access to critical region at 2023-05-05 09:17:18.229059
+Client 31784 has left the critical region at 2023-05-05 09:17:19.393719
+Client 31784 has solicited access to critical region at 2023-05-05 09:17:19.693717
+Client 6856 has access to critical region at 2023-05-05 09:17:19.768708
+Client 6856 has left the critical region at 2023-05-05 09:17:21.106708
+Client 6856 has solicited access to critical region at 2023-05-05 09:17:21.481737
+Client 6716 has access to critical region at 2023-05-05 09:17:21.709719
+Client 6716 has left the critical region at 2023-05-05 09:17:23.080702
+Client 6716 has solicited access to critical region at 2023-05-05 09:17:23.377717
+Client 20764 has access to critical region at 2023-05-05 09:17:23.395711
+Client 20764 has left the critical region at 2023-05-05 09:17:24.649715
+Client 31784 has access to critical region at 2023-05-05 09:17:25.087715
+Client 20764 has solicited access to critical region at 2023-05-05 09:17:25.102941
+Client 31784 has left the critical region at 2023-05-05 09:17:26.350715
+Client 31784 has solicited access to critical region at 2023-05-05 09:17:26.692731
+Client 6856 has access to critical region at 2023-05-05 09:17:26.722738
+Client 6856 has left the critical region at 2023-05-05 09:17:27.898712
+Client 6856 has solicited access to critical region at 2023-05-05 09:17:28.567711
+Client 6716 has access to critical region at 2023-05-05 09:17:28.645722
+Client 6716 has left the critical region at 2023-05-05 09:17:29.816309
+Client 20764 has access to critical region at 2023-05-05 09:17:30.179299
+Client 6716 has solicited access to critical region at 2023-05-05 09:17:30.179299
+Client 20764 has left the critical region at 2023-05-05 09:17:31.304301
+Client 20764 has solicited access to critical region at 2023-05-05 09:17:31.409301
+Client 31784 has access to critical region at 2023-05-05 09:17:31.604300
+Client 31784 has left the critical region at 2023-05-05 09:17:33.239302
+Client 31784 has solicited access to critical region at 2023-05-05 09:17:33.611315
+Client 6856 has access to critical region at 2023-05-05 09:17:33.566480
+Client 6856 has left the critical region at 2023-05-05 09:17:34.997320
+Client 6856 has solicited access to critical region at 2023-05-05 09:17:35.297328
+Client 6716 has access to critical region at 2023-05-05 09:17:35.297328
+Client 6716 has left the critical region at 2023-05-05 09:17:36.531761
+Client 6716 has solicited access to critical region at 2023-05-05 09:17:36.696786
+Client 20764 has access to critical region at 2023-05-05 09:17:36.771760
+Client 20764 has left the critical region at 2023-05-05 09:17:38.190757
+Client 20764 has solicited access to critical region at 2023-05-05 09:17:38.553770
+Client 31784 has access to critical region at 2023-05-05 09:17:38.649764
+Client 31784 has left the critical region at 2023-05-05 09:17:40.032754
+Client 31784 has solicited access to critical region at 2023-05-05 09:17:40.383759
+Client 6856 has access to critical region at 2023-05-05 09:17:40.737764
+Client 6856 has left the critical region at 2023-05-05 09:17:41.962371
+Client 6856 has solicited access to critical region at 2023-05-05 09:17:42.322391
+Client 6716 has access to critical region at 2023-05-05 09:17:42.397886
+Client 6716 has left the critical region at 2023-05-05 09:17:43.867381
+Client 6716 has solicited access to critical region at 2023-05-05 09:17:44.503385
+Client 20764 has access to critical region at 2023-05-05 09:17:44.614380
+Client 20764 has left the critical region at 2023-05-05 09:17:45.829653
+Client 31784 has access to critical region at 2023-05-05 09:17:46.324673
+Client 20764 has solicited access to critical region at 2023-05-05 09:17:46.294655
+Client 31784 has left the critical region at 2023-05-05 09:17:47.614770
+Client 31784 has solicited access to critical region at 2023-05-05 09:17:47.830653
+Client 6856 has access to critical region at 2023-05-05 09:17:47.920673
+Client 6856 has left the critical region at 2023-05-05 09:17:49.333963
+Client 6856 has solicited access to critical region at 2023-05-05 09:17:49.612972
+Client 6716 has access to critical region at 2023-05-05 09:17:49.672974
+Client 6716 has left the critical region at 2023-05-05 09:17:50.866972
+Client 6716 has solicited access to critical region at 2023-05-05 09:17:51.091980
+Client 20764 has access to critical region at 2023-05-05 09:17:51.202960
+Client 20764 has left the critical region at 2023-05-05 09:17:52.474587
+Client 20764 has solicited access to critical region at 2023-05-05 09:17:52.690575
+Client 31784 has access to critical region at 2023-05-05 09:17:52.720584
+Client 31784 has left the critical region at 2023-05-05 09:17:54.135026
+Client 6856 has access to critical region at 2023-05-05 09:17:54.395733
+Client 31784 has solicited access to critical region at 2023-05-05 09:17:54.302736
+Client 6856 has left the critical region at 2023-05-05 09:17:55.556741
+Client 6716 has access to critical region at 2023-05-05 09:17:55.766733
+Client 6856 has solicited access to critical region at 2023-05-05 09:17:55.751732
+Client 6716 has left the critical region at 2023-05-05 09:17:57.202110
+Client 6716 has solicited access to critical region at 2023-05-05 09:17:57.808120
+Client 20764 has access to critical region at 2023-05-05 09:17:57.868119
+Client 20764 has left the critical region at 2023-05-05 09:17:59.216890
+Client 31784 has access to critical region at 2023-05-05 09:17:59.561907
+Client 20764 has solicited access to critical region at 2023-05-05 09:17:59.576884
+Client 31784 has left the critical region at 2023-05-05 09:18:00.858967
+Client 31784 has solicited access to critical region at 2023-05-05 09:18:01.146965
+Client 6856 has access to critical region at 2023-05-05 09:18:01.176973
+Client 6856 has left the critical region at 2023-05-05 09:18:02.610870
+Client 6856 has solicited access to critical region at 2023-05-05 09:18:02.994866
+Client 6716 has access to critical region at 2023-05-05 09:18:03.305506
+Client 6716 has left the critical region at 2023-05-05 09:18:04.643498
+Client 6716 has solicited access to critical region at 2023-05-05 09:18:05.198497
+Client 20764 has access to critical region at 2023-05-05 09:18:05.291504
+Client 20764 has left the critical region at 2023-05-05 09:18:06.491502
+Client 31784 has access to critical region at 2023-05-05 09:18:06.743516
+6.776504
+Client 31784 has left the critical region at 2023-05-05 09:18:08.180503
+Client 6856 has access to critical region at 2023-05-05 09:18:08.510497
+Client 31784 has solicited access to critical region at 2023-05-05 09:18:08.525508
+Client 6856 has left the critical region at 2023-05-05 09:18:09.627351
+Client 6716 has access to critical region at 2023-05-05 09:18:09.948370
+Client 6856 has solicited access to critical region at 2023-05-05 09:18:09.948370
+Client 6716 has left the critical region at 2023-05-05 09:18:11.148354
+Client 20764 has access to critical region at 2023-05-05 09:18:11.472351
+Client 6716 has solicited access to critical region at 2023-05-05 09:18:11.535345
+Client 20764 has left the critical region at 2023-05-05 09:18:12.731676
+Client 20764 has solicited access to critical region at 2023-05-05 09:18:13.052663
+Client 31784 has access to critical region at 2023-05-05 09:18:13.022685
+Client 31784 has left the critical region at 2023-05-05 09:18:14.415426
+Client 6856 has access to critical region at 2023-05-05 09:18:14.792989
+Client 31784 has solicited access to critical region at 2023-05-05 09:18:14.807999
+Client 6856 has left the critical region at 2023-05-05 09:18:16.133749
+Client 6856 has solicited access to critical region at 2023-05-05 09:18:16.744843
+Client 6716 has access to critical region at 2023-05-05 09:18:16.808007
+Client 6716 has left the critical region at 2023-05-05 09:18:18.415193
+Client 6716 has solicited access to critical region at 2023-05-05 09:18:18.819221
+Client 20764 has access to critical region at 2023-05-05 09:18:18.819221
+Client 20764 has left the critical region at 2023-05-05 09:18:20.114317
+Client 20764 has solicited access to critical region at 2023-05-05 09:18:20.602500
+Client 31784 has access to critical region at 2023-05-05 09:18:20.602500
+Client 31784 has left the critical region at 2023-05-05 09:18:21.880503
+Client 6856 has access to critical region at 2023-05-05 09:18:22.270484
+Client 6856 has left the critical region at 2023-05-05 09:18:23.355412
+Client 6716 has access to critical region at 2023-05-05 09:18:23.853405
+Client 6716 has left the critical region at 2023-05-05 09:18:25.010802
+Client 20764 has access to critical region at 2023-05-05 09:18:25.193825
+Client 20764 has left the critical region at 2023-05-05 09:18:26.308980
